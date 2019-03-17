@@ -1,4 +1,4 @@
-// https://jsfiddle.net/vasanthkay/6d2c2coj/
+//slider js from - https://jsfiddle.net/vasanthkay/6d2c2coj/
 var $carousel = document.querySelector('.carousel');
 var $seats = document.querySelectorAll('.carousel-seat');
 var $toggle = document.getElementsByClassName('toggle');
